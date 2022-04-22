@@ -1,5 +1,5 @@
 ---
 layout: archive-years
-title: Years
+title: 타임라인
 permalink: /years/
 ---

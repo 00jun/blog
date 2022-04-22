@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Youngjun Park
 permalink: /about/
 ---
 
