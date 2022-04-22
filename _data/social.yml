@@ -6,5 +6,7 @@
   icon: fab fa-github
 - title: Steam
   url: https://steamcommunity.com/id/Goraesang/
-  icon: fa-brands fa-steam
-
+  icon: fab fa-discord
+- title: Bluetooth
+  url: https://t1.daumcdn.net/cfile/tistory/222CFD355882E24F25
+  icon: fab fa-bluetooth
